@@ -1,1 +1,1 @@
-# Segmenting-and-Clustering-Neighborhoods-in-Toronto
+# Capstone Project - The Battle of Restaurant Location
